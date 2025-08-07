@@ -1,3 +1,5 @@
+**I'll have to take another look at this later, as I don't understand why it's not working on YouTube.**
+
 **Cross-Platform Queue System for Multistream**
 
 A versatile and easy-to-use queue system designed specifically for multistream setups. 
