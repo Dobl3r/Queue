@@ -5,13 +5,13 @@ A versatile and easy-to-use queue system designed specifically for multistream s
 
 **Features include:**
 
-🖥 Multi-platform support (Twitch / Kick / YouTube)
-📋 Simple queue join and leave commands (!queue join / !queue leave)
-🛠 Moderator tools: !queue next, !queue clear
-🔁 Unified participant management across all platforms
-🎯 Platform-specific notifications for the next participant
-⏳ Real-time updates with queue status and participant list
-🧾 Built-in help commands
+- 🖥 Multi-platform support (Twitch / Kick / YouTube)
+- 📋 Simple queue join and leave commands (!queue join / !queue leave)
+- 🛠 Moderator tools: !queue next, !queue clear
+- 🔁 Unified participant management across all platforms
+- 🎯 Platform-specific notifications for the next participant
+- ⏳ Real-time updates with queue status and participant list
+- 🧾 Built-in help commands
 
 **Available commands**
 
