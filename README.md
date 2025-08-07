@@ -1,4 +1,4 @@
-**I'll have to take another look at this later, as I don't understand why it's not working on YouTube.**
+**I'll have to check this at this later, as I don't understand why it's not working on YouTube.**
 
 **Cross-Platform Queue System for Multistream**
 
