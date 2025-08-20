@@ -3,9 +3,7 @@
 Cross-Platform Queue System for Multistream
 A versatile and easy-to-use queue system designed specifically for multistream setups. This system allows you to manage a single unified queue for viewers across Twitch, Kick, and YouTube — keeping participation fair and organized regardless of platform. Moderators and broadcasters can seamlessly control the queue via chat commands.
 
-#
-
-**Features include:**
+## Features
 
 - 🖥 Multi-platform support (Twitch / Kick / YouTube)
 - 📋 Simple queue join and leave commands (!queue join / !queue leave)
